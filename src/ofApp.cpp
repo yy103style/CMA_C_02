@@ -1,10 +1,6 @@
 #include <vector>
 #include "ofApp.h"
 
-int trackerLength = 40;
-float startTime = 0.035;
-int stage_mode = 1;
-ofSpherePrimitive box;
 
 class Drawer
 {
